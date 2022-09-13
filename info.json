@@ -1,0 +1,309 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://letsencrypt.org/documents/isrg-cps-v4.3/",
+            "path": "index.html",
+            "saved": true,
+            "size": 103923,
+            "children": [
+                {
+                    "url": "https://letsencrypt.org/js/i18n.js",
+                    "path": "js/i18n.js",
+                    "saved": true,
+                    "size": 377,
+                    "children": []
+                },
+                {
+                    "url": "https://letsencrypt.org/js/main.9c0b9add2dc0db21de0f695103830dbde01e31d77fa9a2db9ac3c1b9e09e4806f2e0d9a7281b06461b2e162a3560c605b038169b42ff376b4cd28cc71203c8f0.js",
+                    "path": "js/main.9c0b9add2dc0db21de0f695103830dbde01e31d77fa9a2db9ac3c1b9e09e4806f2e0d9a7281b06461b2e162a3560c605b038169b42ff376b4cd28cc71203c8f0.js",
+                    "saved": true,
+                    "size": 4513,
+                    "children": []
+                },
+                {
+                    "url": "https://letsencrypt.org/css/main.min.cd1f1e64e5d0cd7464020ca4fee9115f141db72057a7f62e7f4e70fb3b1c2c2ba9a52c8d4596c4b35f47401378c5f2a4fa4646c3f24849da34b0e36b544b9fa2.css",
+                    "path": "css/main.min.cd1f1e64e5d0cd7464020ca4fee9115f141db72057a7f62e7f4e70fb3b1c2c2ba9a52c8d4596c4b35f47401378c5f2a4fa4646c3f24849da34b0e36b544b9fa2.css",
+                    "saved": true,
+                    "size": 42084,
+                    "children": [
+                        {
+                            "url": "https://letsencrypt.org/fonts/OpenSans-Light.eot",
+                            "path": "fonts/OpenSans-Light.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fonts/OpenSans-Light.woff",
+                            "path": "fonts/OpenSans-Light.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fonts/OpenSans-Light.ttf",
+                            "path": "fonts/OpenSans-Light.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fonts/OpenSans-Light.svg#OpenSansLight",
+                            "path": "img/OpenSans-Light.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fonts/OpenSans-Regular.eot",
+                            "path": "fonts/OpenSans-Regular.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fonts/OpenSans-Regular.woff",
+                            "path": "fonts/OpenSans-Regular.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fonts/OpenSans-Regular.ttf",
+                            "path": "fonts/OpenSans-Regular.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fonts/OpenSans-Regular.svg#OpenSansRegular",
+                            "path": "img/OpenSans-Regular.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fonts/OpenSans-Bold.eot",
+                            "path": "fonts/OpenSans-Bold.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fonts/OpenSans-Bold.woff",
+                            "path": "fonts/OpenSans-Bold.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fonts/OpenSans-Bold.ttf",
+                            "path": "fonts/OpenSans-Bold.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fonts/OpenSans-Bold.svg#OpenSansBold",
+                            "path": "img/OpenSans-Bold.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/images/3.jpg",
+                            "path": "img/3.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://letsencrypt.org/fontawesome-free-5.12.1-web/css/all.min.css",
+                    "path": "css/all.min.css",
+                    "saved": true,
+                    "size": 57270,
+                    "children": [
+                        {
+                            "url": "https://letsencrypt.org/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.eot",
+                            "path": "fonts/fa-brands-400.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.woff2",
+                            "path": "fonts/fa-brands-400.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.woff",
+                            "path": "fonts/fa-brands-400.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.ttf",
+                            "path": "fonts/fa-brands-400.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.svg#fontawesome",
+                            "path": "img/fa-brands-400.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.eot",
+                            "path": "fonts/fa-regular-400.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.woff2",
+                            "path": "fonts/fa-regular-400.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.woff",
+                            "path": "fonts/fa-regular-400.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.ttf",
+                            "path": "fonts/fa-regular-400.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.svg#fontawesome",
+                            "path": "img/fa-regular-400.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.eot",
+                            "path": "fonts/fa-solid-900.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.woff2",
+                            "path": "fonts/fa-solid-900.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.woff",
+                            "path": "fonts/fa-solid-900.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.ttf",
+                            "path": "fonts/fa-solid-900.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://letsencrypt.org/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.svg#fontawesome",
+                            "path": "img/fa-solid-900.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://letsencrypt.org/css/policy-markdown.css",
+                    "path": "css/policy-markdown.css",
+                    "saved": true,
+                    "size": 28294,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "letsencrypt-org-9ol34tt",
+    "info": {
+        "remark": [],
+        "title": "ISRG CPS v4.3 -  Let's Encrypt",
+        "domain": "letsencrypt.org",
+        "origin": "https://letsencrypt.org",
+        "ip": "34.126.184.144",
+        "main": "index.html",
+        "url": "https://letsencrypt.org/documents/isrg-cps-v4.3/",
+        "totalSize": "236 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://letsencrypt.org/documents/isrg-cps-v4.3/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://letsencrypt.org/documents/isrg-cps-v4.3/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "age": "71861",
+                "cache-control": "public, max-age=0, must-revalidate",
+                "content-length": "104318",
+                "content-security-policy": "default-src 'none'; font-src 'self'; style-src 'unsafe-inline' 'self'; script-src 'unsafe-eval' 'unsafe-inline' 'self' data: https://www.google-analytics.com https://www.googleadservices.com https://www.googletagmanager.com https://googleads.g.doubleclick.net https://donorbox.org https://js.stripe.com/v3/ https://sdks.shopifycdn.com https://www.paypal.com ; img-src 'self' data: blob: https://www.google-analytics.com https://www.paypal.com https://www.paypalobjects.com https://ak2s.abmr.net https://ak1s.abmr.net https://www.google.com https://cdn.shopify.com https://v.shopify.com ; frame-src https://donorbox.org https://www.youtube.com https://www.youtube-nocookie.com https://bid.g.doubleclick.net https://js.stripe.com/v3/ https://js.stripe.com/v2/ https://www.paypal.com ; connect-src 'self' https://d4twhgtvn0ff5.cloudfront.net/ https://letsencrypt-merch.myshopify.com https://monorail-edge.shopifysvc.com https://www.paypal.com ;",
+                "content-type": "text/html; charset=UTF-8",
+                "date": "Sun, 11 Sep 2022 18:13:13 GMT",
+                "etag": "\"d804fad8be1ca7b2f2784f7677075ec4-ssl\"",
+                "permissions-policy": "geolocation=(), midi=(), notifications=(), push=(), sync-xhr=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), speaker=(self), vibrate=(), fullscreen=(self), interest-cohort=()",
+                "referrer-policy": "no-referrer",
+                "server": "Netlify",
+                "strict-transport-security": "max-age=31536000",
+                "x-content-type-options": "nosniff",
+                "x-frame-options": "DENY",
+                "x-nf-request-id": "01GCS0KSXRB0V4C6T7D7HEJE42",
+                "x-xss-protection": "1; mode=block",
+                "connection": "close"
+            }
+        },
+        "time": {
+            "start": "2022-09-12T14:10:53.276Z",
+            "end": "2022-09-12T14:11:03.877Z"
+        }
+    },
+    "options": {
+        "url": "https://letsencrypt.org/documents/isrg-cps-v4.3/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
